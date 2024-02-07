@@ -1,0 +1,80 @@
+#STATIC
+
+-s 5 neededFiles: [Penguin.pde, Dog.pde]
+
+
+#DYNAMIC
+
+-a 3 objectCount: [Penguin 7]
+
+-a 4 objectPosition: [Landscape (0, 0.66) ]
+
+-a 5 neededObject: [Penguin[Beak]]
+
+
+#EOF
+
+There are many different stages of the PDE file,
+
+we can have different sections in DYNAMIC testing to test different functions
+
+
+TODO object count should accept a range of values
+
+TODO Extend object count to accept more than one object
+
+### This is a document speculating on implementation of our test files. 
+
+
+
+### Format of test file can vary a lot
+
+
+Ways to do Marking: 
+
+  # additive/substractive or both
+
+
+
+#### Static Analysis #### 
+
+#Things to check for:
+  # variable names
+  # file / folder names
+  # style
+  # unchanged files (user has to upload or point to original file
+  # 
+  
+  
+  # Example usage
+  
+Rule 1: -s (1,max 5) vars = [a-z][a-zA-Z0-9]
+  
+  #(rule 1: subtractive marks, lose 1, max 5 points lost, for each variable that breaks this rule
+  variables must start with a lower case letter and only use regex) 
+  
+  
+
+Rule 2: -s (5) Tests.unchangedFiles: [originalFilePath, newFile]
+  
+  (rule 2, substractive marks, lose 5 points if specified file has been changed)
+  
+  
+  
+
+#### Runtime analysis #####
+
+## users can upload JUNIT tests ##
+
+
+Tests.Test 1, JUNIT, -a (5 marks)
+
+Penguin penguin1 = Penguin.draw();
+Assert(penguin1.isoftype(Penguin), TRUE);
+
+## (tutors add text to tell the program how much each test is worth) 
+
+
+
+#### We need to write code that processes the marks
+#### If we have time we can write a program that helps generate the test files

@@ -1,0 +1,1 @@
+java -classpath out/production/TestingAutomater:lib/poi-bin-5.2.3/poi-ooxml-full-5.2.3.jar:lib/poi-bin-5.2.3/poi-ooxml-5.2.3.jar:lib/poi-bin-5.2.3/lib/log4j-api-2.18.0.jar:lib/poi-bin-5.2.3/poi-5.2.3.jar Punit

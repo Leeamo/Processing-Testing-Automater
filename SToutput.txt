@@ -1,0 +1,25 @@
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:82:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:82:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:82:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:87:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:87:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:127:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:138:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:156:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:165:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:169:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:175:	ShortVariable:	Avoid variables with short names like dx
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:175:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:175:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:175:	OneDeclarationPerLine:	Use one line for each declaration, it enhances code readability.
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:183:	ShortVariable:	Avoid variables with short names like dx
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:183:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:183:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:235:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:235:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:244:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:244:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:252:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:252:	ShortVariable:	Avoid variables with short names like y
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:291:	ShortVariable:	Avoid variables with short names like x
+C:\Users\joshu\OneDrive\Documents\Uni\COMP4050\TestingAutomater\dev\MarchPenguin.java:291:	ShortVariable:	Avoid variables with short names like y

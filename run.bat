@@ -1,0 +1,1 @@
+java -classpath out\\production\\TestingAutomater;lib\\poi-bin-5.2.3\\lib\\*;lib\\poi-bin-5.2.3\\ooxml-lib\\*;lib\\poi-bin-5.2.3\\*;out\\production\\TestingAutomater\\library\\* Punit
